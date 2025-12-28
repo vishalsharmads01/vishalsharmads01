@@ -1,7 +1,7 @@
 #  Hi 👋, I'm Vishal Sharma
 **A passionate Data Analyst
 
-Email Me 👉 ✉️ **vishalsharmads001@gmail.cm** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **vishalsharmads001@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Lung Cancer Detection ML project as part of my academic learning.
 - 🌱 **I’m currently learning:** Data Science 
